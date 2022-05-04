@@ -1,0 +1,1 @@
+This is just some SQL files for the Relational Database (beta) requirements projects offered by freeCodeCamp.
